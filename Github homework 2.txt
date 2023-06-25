@@ -32,5 +32,8 @@ b) touch Checklist_Structure.txt
 c) vi Checklist_Structure.txt
 
 8. Запушить структуру на внешний репозиторий
+git add . && git commit -m "commit234" && git push
+
 9. На внешнем репозитории сделать Pull Request ветки CheckLists в main
 10. Синхронизировать Внешнюю и Локальную ветки Main
+git pull
